@@ -1,4 +1,4 @@
-# VexFlow 3
+# VexFlow 5
 
 A JavaScript library for rendering music notation.
 Copyright (c) 2010 Mohit Muthanna Cheppudira
