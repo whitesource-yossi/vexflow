@@ -1,4 +1,4 @@
-ZIP
+
 # VexFlow 4
 
 
