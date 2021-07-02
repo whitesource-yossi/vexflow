@@ -2,6 +2,7 @@
 # VexFlow 4
 
 
+
 A JavaScript library for rendering music notation.
 Copyright (c) 2010 Mohit Muthanna Cheppudira
 
