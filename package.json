@@ -50,7 +50,7 @@
     "jscs": "^3.0.6",
     "qunit": "^0.9.1",
     "raphael": "^2.1.0",
-    "slimerjs": "^0.906.2",
+    "slimerjs": "^1.0.0",
     "webpack": "*",
     "webpack-dev-server": "^1.14.1"
   },
