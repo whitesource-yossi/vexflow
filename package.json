@@ -17,7 +17,7 @@
     "url": "https://github.com/0xfe/vexflow/issues"
   },
   "dependencies": {
-    "node-sass": "4.13.1",
+    "node-sass": "6.0.1",
     "lodash": "4.17.5"
   },
   "devDependencies": {
